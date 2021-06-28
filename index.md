@@ -24,10 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![Mico_gif](https://user-images.githubusercontent.com/56878231/123630531-8c99db80-d80d-11eb-8e38-058d8f594390.gif)
-![KR5_gif](https://user-images.githubusercontent.com/56878231/123630579-9c192480-d80d-11eb-85da-e761f2adbde5.gif)
 
 ```
+![Mico_gif](https://user-images.githubusercontent.com/56878231/123630531-8c99db80-d80d-11eb-8e38-058d8f594390.gif)
+![KR5_gif](https://user-images.githubusercontent.com/56878231/123630579-9c192480-d80d-11eb-85da-e761f2adbde5.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
